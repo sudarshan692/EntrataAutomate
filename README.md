@@ -51,15 +51,9 @@ All tests are located in the `tests/` directory and use the `pytest` framework.
 	cd EntrataAutomate
 
 2. Create and Activate a Virtual Environment
-	# Create a virtual environment
 	python -m venv venv
-
-	# Activate (OS-specific)
-	# Windows:
-	venv\Scripts\activate
-
-	# macOS/Linux:
-	source venv/bin/activate
+	For Windows: venv\Scripts\activate 
+	For mac/Linux: source venv/bin/activate
 
 3. Install Dependencies
 	pip install -r requirements.txt
