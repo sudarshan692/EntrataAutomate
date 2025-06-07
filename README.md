@@ -42,3 +42,29 @@
 pytest
 
 All tests are located in the `tests/` directory and use the `pytest` framework.
+
+
+**Step-by-Step: Clone & Run the Project**
+
+1. Clone the Repository
+	git clone https://github.com/sudarshan692/AutomateEntrata.git
+	cd AutomateEntrata
+
+2. Create and Activate a Virtual Environment
+	# Create a virtual environment
+	python -m venv venv
+
+	# Activate (OS-specific)
+	# Windows:
+	venv\Scripts\activate
+
+	# macOS/Linux:
+	source venv/bin/activate
+
+3. Install Dependencies
+	pip install -r requirements.txt
+
+4. Run the Tests
+	pytest
+
+
