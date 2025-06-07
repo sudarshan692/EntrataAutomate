@@ -47,7 +47,7 @@ All tests are located in the `tests/` directory and use the `pytest` framework.
 **Step-by-Step: Clone & Run the Project**
 
 1. Clone the Repository
-	git clone https://github.com/sudarshan692/AutomateEntrata.git
+	git clone https://github.com/sudarshan692/EntrataAutomate.git
 	cd AutomateEntrata
 
 2. Create and Activate a Virtual Environment
