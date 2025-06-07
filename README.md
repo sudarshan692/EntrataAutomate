@@ -38,9 +38,6 @@
 
 ---
 
-**How to Run All Tests:**
-pytest
-
 All tests are located in the `tests/` directory and use the `pytest` framework.
 
 
