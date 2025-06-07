@@ -47,18 +47,15 @@ All tests are located in the `tests/` directory and use the `pytest` framework.
 **Step-by-Step: Clone & Run the Project**
 
 1. Clone the Repository
-	git clone https://github.com/sudarshan692/EntrataAutomate.git
-	cd EntrataAutomate
-
+	a. git clone https://github.com/sudarshan692/EntrataAutomate.git
+	b. cd EntrataAutomate
 2. Create and Activate a Virtual Environment
-	python -m venv venv
-	For Windows: venv\Scripts\activate 
-	For mac/Linux: source venv/bin/activate
-
+	a. python -m venv venv
+	b. For Windows: venv\Scripts\activate
+	c. For mac/Linux: source venv/bin/activate
 3. Install Dependencies
-	pip install -r requirements.txt
-
+	a. pip install -r requirements.txt
 4. Run the Tests
-	pytest
+	a. pytest
 
 
