@@ -1,18 +1,18 @@
 1. Install VS code
 2. Install pyhton
 3. Create Project folder and open in VS Code
-	mkdir AutomateEntrata
-	cd AutomateEntrata
+	- mkdir AutomateEntrata
+	- cd AutomateEntrata
 3. Create Virtual Environment
-	python -m venv venv
+	- python -m venv venv
 4. Activate Virtual Environment
-	venv\Scripts\activate
+	- venv\Scripts\activate
 5. Install dependencies
-	pip install selenium pytest pytest-html webdriver-manager
+	- pip install selenium pytest pytest-html webdriver-manager
 6. Save to requirements.txt
-	pip freeze > requirements.txt
+	- pip freeze > requirements.txt
 7. To execute code 
-	pytest
+	- pytest
 
 ## Test Scenarios Covered
 
